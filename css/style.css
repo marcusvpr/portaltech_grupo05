@@ -1,0 +1,13 @@
+header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.imgLogo {
+  width: 8rem;
+}
+
+nav a {
+  margin-left: 5px;
+}

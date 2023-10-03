@@ -1,0 +1,15 @@
+Todo List
+
+(01) Criar repositório Github ; OK
+(02) Adicionar os usuários ; -> Falta Jonnhy -> Simone(Só na sexta!)
+(03) Criar base do Site ;
+(04) Distribuir páginas 
+			-> Home (Grupo/???) ;
+			-> Região dos Lagos (MarcusVPR) ;
+			-> Pontos Turisticos (???) ;
+			-> Fale Conosco (???) ;
+			-> Sobre Nós (???)
+(05) Objetivo Site (GranTour - Seu melhor destino)  -> Definir Logos ;
+(0?) Subir código básico no Github ;
+			
+			
