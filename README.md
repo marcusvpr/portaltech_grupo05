@@ -1,2 +1,2 @@
-# portaltech_grupo7
+# Portaltech Grupo (7)
 Grupo trabalho do grupo7 (Portaltech)
