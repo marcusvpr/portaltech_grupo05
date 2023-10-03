@@ -11,5 +11,10 @@ Todo List
 			-> Sobre Nós (???)
 (05) Objetivo Site (GranTour - Seu melhor destino)  -> Definir Logos ;
 (0?) Subir código básico no Github ;
-			
-			
+			git init
+			git add .
+			git status
+			git commit -m "feat: Initial commit"
+			git remote add origin https://github.com/marcusvpr/portaltech_grupo7
+			git push origin master			
+					
