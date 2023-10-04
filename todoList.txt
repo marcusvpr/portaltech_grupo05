@@ -16,5 +16,11 @@ Todo List
 			git status
 			git commit -m "feat: Initial commit"
 			git remote add origin https://github.com/marcusvpr/portaltech_grupo7
-			git push origin master			
-					
+			git push origin master	
+
+			git checkout -b main
+			git merge master
+			git commit -m "feat: Merge master into main"
+			git push origin main
+			
+			git push --set-upstream origin master					
